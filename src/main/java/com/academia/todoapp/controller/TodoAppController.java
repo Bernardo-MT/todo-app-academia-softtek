@@ -13,6 +13,6 @@ public class TodoAppController {
     }
     @GetMapping("/saludo")
     public String saludoPersonalizado() {
-        return "¡Bienvenidooooooooooo al controlador de artículos!";
+        return "¡Bienvenidooooooooooooooo al controlador de artículos!";
     }
 }
